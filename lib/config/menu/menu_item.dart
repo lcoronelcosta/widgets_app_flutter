@@ -57,6 +57,24 @@ class MenuItem {
       link: '/tutorial', 
       icon: Icons.accessible_rounded
     ),
+    MenuItem(
+      title: 'InfiniteScroll y Pull', 
+      subTitle: 'Listas infinitas y pull to refresh', 
+      link: '/infinite', 
+      icon: Icons.list_alt_rounded
+    ),
+    MenuItem(
+      title: 'Counter', 
+      subTitle: 'Counter screen, riverpood', 
+      link: '/counter', 
+      icon: Icons.add
+    ),
+    MenuItem(
+      title: 'Cambiar tema', 
+      subTitle: 'Cambiar tema de la plicacion', 
+      link: '/theme-changer', 
+      icon: Icons.color_lens_outlined
+    ),
   ];
   
 }
